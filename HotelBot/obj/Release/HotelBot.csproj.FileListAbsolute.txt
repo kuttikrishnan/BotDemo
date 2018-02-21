@@ -1,0 +1,41 @@
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.dll.config
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Autofac.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Chronic.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Autofac.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\de-de\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Release\HotelBot.csprojResolveAssemblyReference.cache
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Release\HotelBot.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Release\Bot Application1.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Release\Bot Application1.pdb

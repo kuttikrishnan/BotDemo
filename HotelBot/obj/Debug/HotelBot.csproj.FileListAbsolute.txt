@@ -1,0 +1,269 @@
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Bot Application1.dll.config
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Bot Application1.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Bot Application1.pdb
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Autofac.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Chronic.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Autofac.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+\\Mac\Home\Desktop\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll.config
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Autofac.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Chronic.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Autofac.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m2\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll.config
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.pdb
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Autofac.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Chronic.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Autofac.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+\\Mac\Home\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll.config
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Autofac.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Chronic.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Autofac.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Bot Application1.dll.config
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Bot Application1.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Autofac.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Chronic.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.Bot.Builder.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.Bot.Connector.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Newtonsoft.Json.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Net.Http.Formatting.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Web.Http.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Web.Http.WebHost.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Autofac.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.Bot.Builder.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.Bot.Connector.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\Newtonsoft.Json.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Net.Http.Formatting.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Web.Http.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\System.Web.Http.WebHost.xml
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\obj\Debug\Bot Application1.dll
+\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m3\Demo\After\HotelBot2\HotelBot\obj\Debug\Bot Application1.pdb
+C:\Temp\HotelBot\HotelBot\bin\Bot Application1.dll.config
+C:\Temp\HotelBot\HotelBot\bin\Bot Application1.dll
+C:\Temp\HotelBot\HotelBot\bin\Bot Application1.pdb
+C:\Temp\HotelBot\HotelBot\bin\Autofac.dll
+C:\Temp\HotelBot\HotelBot\bin\Chronic.dll
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Temp\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+C:\Temp\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+C:\Temp\HotelBot\HotelBot\bin\System.Web.Http.dll
+C:\Temp\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+C:\Temp\HotelBot\HotelBot\bin\Autofac.xml
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Temp\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Temp\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+C:\Temp\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Temp\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Temp\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+C:\Temp\HotelBot\HotelBot\bin\System.Web.Http.xml
+C:\Temp\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+C:\Temp\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\de-de\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Temp\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+C:\Temp\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+C:\Temp\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.dll.config
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Bot Application1.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Autofac.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Chronic.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Autofac.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\de-de\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Debug\HotelBot.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Debug\Bot Application1.dll
+D:\Personal\Learning\Bot\HotelBot\HotelBot\obj\Debug\Bot Application1.pdb
